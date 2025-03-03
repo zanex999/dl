@@ -1,0 +1,24 @@
+Deep-Learning-Course/
+│── README.md                # 课程介绍
+│── syllabus.md               # 课程大纲
+│── lectures/                 # 课件和笔记
+│   ├── lecture_01_intro.pdf
+│   ├── lecture_02_nn_basics.pdf
+│   ├── lecture_03_backpropagation.pdf
+│   ├── ...
+│── assignments/              # 课程作业
+│   ├── hw1/                  # 例如：手写数字识别
+│   ├── hw2/                  # 例如：CNN 图像分类
+│   ├── hw3/                  # 例如：RNN 序列建模
+│── projects/                 # 课程大作业或研究课题
+│   ├── project_1/            # 例如：GAN 生成对抗网络
+│   ├── project_2/            # 例如：Transformer 结构
+│── datasets/                 # 用于实验的数据集（可存放下载脚本）
+│── notebooks/                # Jupyter Notebook 示例
+│   ├── nn_basics.ipynb
+│   ├── cnn_image_classification.ipynb
+│   ├── rnn_text_generation.ipynb
+│── utils/                    # 常用工具和脚本
+│── requirements.txt           # 依赖库列表
+│── setup.py                   # 安装脚本（如果有）
+│── .gitignore                 # 忽略不需要提交的文件
